@@ -33,3 +33,11 @@ p, ol, ul, td {
 th {
     padding-bottom: 5px;
 }
+
+label {
+    display: block;
+}
+
+div.field, div.actions {
+    margin-bottom: 10px;
+}
